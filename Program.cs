@@ -30,6 +30,8 @@ namespace UnderstandingCheck
             emplyee1.Name = "Khutjo Mamabolo";
             emplyee1.Company = "Sentinel Aerospace";
             emplyee1.Age = 21;
+            emplyee1.IntroduceYourself();
+
         }
     }
 }
